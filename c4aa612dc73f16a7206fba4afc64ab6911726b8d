@@ -1,0 +1,1 @@
+{"jobID":"c5ef6e7c-a2d3-763b-695c-e2ebb8e7a3e5","spec":{"type":"policy","cause":{"Message":"","User":"Mike Larson \u003cmikeg.larson@non.se.com\u003e"},"spec":{"production:deployment/k8s-helloworld":{"add":{"automated":"true"},"remove":{}}}},"result":null}
