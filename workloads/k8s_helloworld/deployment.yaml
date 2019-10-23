@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: k8s-helloworld
-        image: mikelarson123/k8s_helloworld:4
+        image: mikelarson123/k8s_helloworld:5
         ports:
         - containerPort: 80
         env:
