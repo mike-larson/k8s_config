@@ -1,2 +1,2 @@
 # k8s_config
-config
+kubernetes config file
